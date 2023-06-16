@@ -1,20 +1,20 @@
-Kaggle_Regression with a Crab Age Dataset<br>
+<b>Kaggle_Regression with a Crab Age Dataset</b><br>
 https://www.kaggle.com/competitions/playground-series-s3e16/overview<br>
 <br>
-개요 : Crab Age Dataset을 이용하여 게의 나이를 예측하는 회귀 예측 진행<br>
+<b>개요</b> : Crab Age Dataset을 이용하여 게의 나이를 예측하는 회귀 예측 진행<br>
 <br>
-평가 : MAE<br>
+<b>평가</b> : MAE<br>
 <br>
-최종 제출 결과<br>
-Public : 1.35298<br>
-Private : 1.34882<br>
-순위 : 349 / 1429<br>
+<b>최종 제출 결과</b><br>
+<b>Public</b> : 1.35298<br>
+<b>Private</b> : 1.34882<br>
+<b>순위</b> : <b>349</b> / 1429<br>
 <br>
-1등 점수<br>
-Public : 1.32867<br>
-Private : 1.33429<br>
+<b>1등 점수</b><br>
+<b>Public</b> : 1.32867<br>
+<b>Private</b> : 1.33429<br>
 <br>
-파일 설명<br>
-dts/* : 사용한 데이터셋<br>
-first.ipynb : 모델 예측 코드<br>
-lgbm_new_round.csv : 예측 결과물<br>
+<b>파일 설명</b><br>
+<b>./dts/*</b> : 사용한 데이터셋<br>
+<b>first.ipynb</b> : 모델 예측 코드<br>
+<b>lgbm_new_round.csv</b> : 예측 결과물<br>
