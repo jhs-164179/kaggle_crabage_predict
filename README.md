@@ -1,4 +1,4 @@
-<b>Kaggle_Regression with a Crab Age Dataset</b><br>
+<h2><b>Kaggle_Regression with a Crab Age Dataset</b></h2><br>
 https://www.kaggle.com/competitions/playground-series-s3e16/overview<br>
 <br>
 <b>개요</b> : Crab Age Dataset을 이용하여 게의 나이를 예측하는 회귀 예측 진행<br>
